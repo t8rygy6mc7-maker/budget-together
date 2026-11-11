@@ -1,7 +1,8 @@
-# Budget Together — support & privacy
+# Even Keel — support & privacy
 
-The public site for the Budget Together iPhone app. Two pages, served by GitHub
-Pages:
+The public site for the Even Keel iPhone app (first published as Budget
+Together, which is why the repository and its URLs still carry that name). Two
+pages, served by GitHub Pages:
 
 - `index.html` — the support page (Apple requires a Support URL)
 - `privacy/index.html` — the privacy policy (Apple requires a Privacy Policy URL)
